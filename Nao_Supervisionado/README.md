@@ -1,4 +1,4 @@
-# Documentação do Código: Análise de Empresas de Jogos Eletrônicos
+# Análise de Empresas de Jogos Eletrônicos
 
 ## Introdução
 Este notebook realiza uma análise detalhada de dados de mercado financeiro de empresas do setor de jogos eletrônicos, com foco em identificar padrões e insights para investidores. A análise inclui desde a exploração dos dados até a modelagem de clusters utilizando algoritmos de aprendizado de máquina.
